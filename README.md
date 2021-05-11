@@ -6,7 +6,6 @@
         <a href="LICENSE">
             <img alt="GitHub License" src="https://img.shields.io/github/license/verloren-droom/Kokea"/>
         </a>
-        &nbsp;
         <a href="https://github.com/verloren-droom/Kokea/stargazers">
             <img alt="GitHub Stars" src="https://img.shields.io/github/stars/verloren-droom/Kokea"/>
         </a>
@@ -137,7 +136,7 @@
         <span>
             <img alt="" width="16" src="https://www.jijidown.com/static/favicon.ico"/>
             <a href="https://www.jijidown.com/" title="https://www.jijidown.com/">
-                JDown主站
+                JJDown主站
             </a>
             &nbsp;|&nbsp;
             <a href="http://client.jijidown.com/" title="http://client.jijidown.com/">
@@ -343,7 +342,7 @@
             <img alt="" width="16" src="https://tahoma2d.org/img/favicon.ico"/>
             Tahoma2D
         </a>
-         <p>介绍：基于的<a href="#opentoonz">Opentoonz</a>基础上動畫軟件。<a href="https://github.com/tahoma2d/tahoma2d">:octocat:</a></p>
+         <p>介绍：基于的<a href="#opentoonz">Opentoonz</a>基础上动画软件。<a href="https://github.com/tahoma2d/tahoma2d">:octocat:</a></p>
         <p>:heavy_check_mark:优点：</p>
         <ul>
             <li></li>
@@ -407,11 +406,33 @@
             <li></li>
         </ul>
     </div>
+    <div id="mediBang">
+        <span>
+            <a href="https://medibang.com/" title="https://medibang.com/">
+                <img alt="" width="16" src="https://medibang.com/resources/images/favicon-artstreet.ico?_=20210506110623"/>
+                MediBang主站
+            </a>
+            &nbsp;|&nbsp;
+            <a href="https://medibangpaint.com/zh_CN/" title="https://medibangpaint.com/zh_CN/">
+                MediBang客户端:warning:
+            </a>
+        </span>
+        <p>介绍：免费漫画插画绘图</p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
     <br />
     <div id="removebg">
         <a href="https://www.remove.bg/zh">
             <img alt="" width="16" src="https://www.remove.bg/favicon.ico?v=YAXaAv7pao"/>
-            remove.bg
+            Remove.bg
         </a>
         <p>介绍：消除图片背景。</p>
         <p>:heavy_check_mark:优点：</p>
@@ -435,7 +456,55 @@
             <img alt="" width="16" src="https://pkg.go.dev/static/img/go-logo-blue.svg"/>
             go dev
         </a>
-        <p>介绍：golang包查詢。</p>
+        <p>介绍：golang包查询。</p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+    <div id="ipaddress">
+        <a href="https://www.ipaddress.com/" title="https://www.ipaddress.com/">
+            <img alt="" width="16" src="https://s.ipaddress.com/favicon.ico"/>
+            IPAddress
+        </a>
+        <p>介绍：IP地址查询。</p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+    <div id="storiesaboutcpp">
+        <a href="https://light-city.club/sc/" title="https://light-city.club/sc/">
+            <img alt="" width="16" src="https://light-city.club/sc/assets/images/favicon.png"/>
+            C++那些事
+        </a>
+        <p>介绍：比较全面的C++学习从入门到进阶提升的仓库。<a href="https://github.com/Light-City/CPlusPlusThings">:octocat:</a></p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+    <div id="bootcdn">
+        <a href="https://www.bootcdn.cn/" title="https://www.bootcdn.cn/">
+            <img alt="" width="16" src="https://www.bootcdn.cn/assets/ico/favicon.ico?1618753550044"/>
+            BootCDN
+        </a>
+        <p>介绍：稳定、快速、免费的前端开源项目 CDN 加速服务。</p>
         <p>:heavy_check_mark:优点：</p>
         <ul>
             <li></li>
@@ -464,11 +533,11 @@
         </ul>
         <p>:x:缺点：</p>
         <ul>
-            <li></li>
+            <li>单次文件传输大小不能超过100M</li>
         </ul>
     </div>
     <br />
-    <div id="cow">
+    <div id="cowtransfer">
         <a href="https://cowtransfer.com/" title="https://cowtransfer.com/">
             <img alt="" width="16" src="https://background.cowtransfer.com/favicon-16x16.png"/>
             牛奶快传
@@ -511,7 +580,7 @@
             <img alt="" width="16" src=""/>
             Free3D
         </a>
-        <p>介绍：免费3D模型</p>
+        <p>介绍：免费3D模型。</p>
         <p>:heavy_check_mark:优点：</p>
         <ul>
             <li></li>
@@ -530,11 +599,59 @@
         <p>介绍：计算知识引擎。</p>
         <p>:heavy_check_mark:优点：</p>
         <ul>
-            <li>优点</li>
+            <li></li>
         </ul>
         <p>:x:缺点：</p>
         <ul>
-            <li>缺点</li>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+    <div id="allhistory">
+        <a href="https://www.allhistory.com/" title="https://www.allhistory.com/">
+            <img alt="" width="16" src="https://static.allhistory.com/online/common/img/logo-ah.1598.svg"/>
+            全历史
+        </a>
+        <p>介绍：历史科普网站。</p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+    <div id="coursade">
+        <a href="http://www.coursade.com/" title="http://www.coursade.com/">
+            <img alt="" width="16" src="http://www.coursade.com/media/favicon.png"/>
+            Coursade
+        </a>
+        <p>介绍：探索在线学习。</p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+    <div id="textures">
+        <a href="https://www.textures.com/" title="https://www.textures.com/">
+            <img alt="" width="16" src="https://www.textures.com/favicon.ico"/>
+            Textures
+        </a>
+        <p>介绍：3D纹理。</p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
         </ul>
     </div>
     <br />
