@@ -13,7 +13,7 @@
     <div id="language">
         <a href="README.md">简体中文</a>
         &nbsp;|&nbsp;
-        <a href="README_TC.md">繁體中文</a>
+        <a href="README_TW.md">繁體中文</a>
         &nbsp;|&nbsp;
         <a href="README_EN.md">English</a>
     </div>
@@ -34,7 +34,7 @@
 <div id="utilities">
     <h3>:hammer:实用</h3>
     <div id="ditto">
-        <a href="https://ditto-cp.sourceforge.io/">
+        <a href="https://ditto-cp.sourceforge.io/" title="https://ditto-cp.sourceforge.io/">
             <img alt="" width="16" src="https://ditto-cp.sourceforge.io/Ditto2.png"/>
             Ditto
         </a>
@@ -50,7 +50,7 @@
     </div>
     <br />
     <div id="ect">
-        <a href="https://easycattimer.com/">
+        <a href="https://easycattimer.com/" title="https://easycattimer.com/">
             <img alt="" width="16" src="https://github.com/xujiangjiang/Easy-Cat-Timer/blob/master/CatTimer%20WpfProject/Asset/Icon/Icon.ico"/>
             Easy-Cat-Timer
         </a>
@@ -68,7 +68,7 @@
     </div>
     <br />
     <div id="listary">
-        <a href="https://www.listary.cc/">
+        <a href="https://www.listary.cc/" title="https://www.listary.cc/">
            <img alt="" width="16" src="https://www.listary.cc/public/static/xiazai/images/favicon.ico"/>
             Listary
         </a>
@@ -84,7 +84,7 @@
     </div>
     <br />
     <div id="snipaste">
-        <a href="https://zh.snipaste.com/index.html">
+        <a href="https://zh.snipaste.com/index.html" title="https://zh.snipaste.com/index.html">
             <img alt="" width="16" src="https://zh.snipaste.com/favicon.ico"/>
             Snipaste
         </a>
@@ -100,7 +100,7 @@
     </div>
     <br />
     <div id="picpick">
-        <a href="https://picpick.app/zh/">
+        <a href="https://picpick.app/zh/" title="https://picpick.app/zh/">
             <img alt="" width="16" src="https://picpick.app/icons-32ef3f284ce5058bd11263e9796a5606/favicon.ico"/>
             PicPick
         </a>
@@ -116,7 +116,7 @@
     </div>
     <br />
     <div id="rime">
-        <a href="https://rime.im/">
+        <a href="https://rime.im/" title="https://rime.im/">
             <img alt="" width="16" src="https://rime.im/favicon.png"/>
             RIME
         </a>
@@ -132,7 +132,16 @@
     </div>
     <br />
     <div id="jjdown">
-        <span><img alt="" width="16" src="https://www.jijidown.com/static/favicon.ico"/><a href="https://www.jijidown.com/">JDown主站</a></span> | <span><a href="http://client.jijidown.com/">JJDown客户端</a></span>
+        <span>
+            <img alt="" width="16" src="https://www.jijidown.com/static/favicon.ico"/>
+            <a href="https://www.jijidown.com/" title="https://www.jijidown.com/">
+                JDown主站
+            </a>
+            &nbsp;|&nbsp;
+            <a href="http://client.jijidown.com/" title="http://client.jijidown.com/">
+                JJDown客户端
+            </a>
+        </span>
         <p>介绍：b站下载工具。</p>
         <p>:heavy_check_mark:优点：</p>
         <ul>
@@ -151,7 +160,7 @@
 <div id="beautify">
     <h3>:cherry_blossom:美化</h3>
     <div id="modernFlyouts">
-        <a href="https://modernflyouts-community.github.io/">
+        <a href="https://modernflyouts-community.github.io/" title="https://modernflyouts-community.github.io/">
             <img alt="" width="16" src="https://modernflyouts-community.github.io/favicon.ico"/>
             ModernFlyouts
         </a>
@@ -167,7 +176,7 @@
     </div>
     <br />
     <div id="mydock">
-        <a href="https://www.mydockfinder.com/">
+        <a href="https://www.mydockfinder.com/" title="https://www.mydockfinder.com/">
             <img alt="" width="16" src="https://www.mydockfinder.com/wp-content/uploads/2020/12/dock.ico"/>
             MyDock&MyFinder
         </a>
@@ -183,7 +192,7 @@
     </div>
     <br />
     <div id="rainmeter">
-        <a href="https://www.rainmeter.net/">
+        <a href="https://www.rainmeter.net/" title="https://www.rainmeter.net/">
             <img alt="" width="16" src="https://www.rainmeter.net/favicon.ico"/>
             Rainmeter
         </a>
@@ -199,7 +208,7 @@
     </div>
     <br />
     <div id="carnac">
-        <a href="http://code52.org/carnac/">
+        <a href="http://code52.org/carnac/" title="http://code52.org/carnac/">
             <img alt="" width="16" src="https://github.com/Code52/carnac/blob/master/src/Carnac/carnac.png"/>
             Carnac
         </a>
@@ -221,7 +230,7 @@
 <div id="music">
     <h3>:headphones:音乐</h3>
     <div id="audacity">
-        <a href="https://audacity.onl/">
+        <a href="https://audacity.onl/" title="https://audacity.onl/">
             <img alt="" width="16" src="https://audacity.onl/wp-content/uploads/2018/08/Audacity.png"/>
             Audacity
         </a>
@@ -237,7 +246,7 @@
     </div>
     <br />
     <div id="erlingwang">
-        <a href="https://www.ear0.com/">
+        <a href="https://www.ear0.com/" title="https://www.ear0.com/">
             <img alt="" width="16" src="https://www.ear0.com/public/images/favicon.ico"/>
             耳聆网
         </a>
@@ -258,7 +267,7 @@
 <div id="game">
     <h3>:video_game:游戏</h3>
     <div id="godot">
-        <a href="https://godotengine.org/">
+        <a href="https://godotengine.org/" title="https://godotengine.org/">
             <img alt="" width="16" src="https://godotengine.org/themes/godotengine/assets/favicon.png"/>
             Godot
         </a>
@@ -274,7 +283,7 @@
     </div>
     <br />
     <div id="renpy">
-        <a href="https://www.renpy.org/">
+        <a href="https://www.renpy.org/" title="https://www.renpy.org/">
             <img alt="" width="16" src="https://www.renpy.org/static/favicon.ico"/>
             Ren'Py
         </a>
@@ -296,7 +305,7 @@
 <div id="anim">
     <h3>:tv:动画</h3>
     <div id="tahoma2d">
-        <a href="https://tahoma2d.org/">
+        <a href="https://tahoma2d.org/" title="https://tahoma2d.org/">
             <img alt="" width="16" src="https://tahoma2d.org/img/favicon.ico"/>
             Tahoma2D
         </a>
@@ -312,7 +321,7 @@
     </div>
     <br />
     <div id="opentoonz">
-        <a href="http://opentoonz.github.io/">
+        <a href="http://opentoonz.github.io/" title="http://opentoonz.github.io/">
             <img alt="" width="16" src="http://opentoonz.github.io/img/favicon.ico"/>
             Opentoonz
         </a>
@@ -334,7 +343,7 @@
 <div id="art">
     <h3>:art:美术</h3>
     <div id="aseprite">
-        <a href="https://www.aseprite.org/">
+        <a href="https://www.aseprite.org/" title="https://www.aseprite.org/">
             <img alt="" width="16" src="https://www.aseprite.org/assets/images/favicon.png"/>
             Aseprite
         </a>
@@ -350,7 +359,7 @@
     </div>
     <br />
     <div id="magicavoxel">
-        <a href="http://ephtracy.github.io/">
+        <a href="http://ephtracy.github.io/" title="http://ephtracy.github.io/">
             <img alt="" width="16" src="http://ephtracy.github.io/favicon.png"/>
             MagicaVoxel
         </a>
@@ -372,7 +381,7 @@
 <div id="computer">
     <h3>:computer:计算机</h3>
     <div id="golang">
-        <a href="https://pkg.go.dev/">
+        <a href="https://pkg.go.dev/" title="https://pkg.go.dev/">
             <img alt="" width="16" src="https://pkg.go.dev/static/img/go-logo-blue.svg"/>
             go dev
         </a>
@@ -394,7 +403,7 @@
 <div id="netdisc">
     <h3>:cloud:网盘</h3>
     <div id="lzy">
-        <a href="https://pc.woozooo.com/">
+        <a href="https://pc.woozooo.com/" title="https://pc.woozooo.com/">
             <img alt="" width="16" src="https://pc.woozooo.com/favicon.ico"/>
             蓝奏云
         </a>
@@ -410,7 +419,7 @@
     </div>
     <br />
     <div id="cow">
-        <a href="https://cowtransfer.com/">
+        <a href="https://cowtransfer.com/" title="https://cowtransfer.com/">
             <img alt="" width="16" src="https://background.cowtransfer.com/favicon-16x16.png"/>
             牛奶快传
         </a>
