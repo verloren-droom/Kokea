@@ -5,18 +5,18 @@
 
 ```html
 <div id="模板">
-    <a href="模板">
-        <img alt="" width="16" src="图片地址"/>
+    <a href="模板" title="模板">
+        <img alt="" width="16" src="图标地址"/>
         模板
     </a>
     <p>介绍：<a href="开源仓库地址">:octocat:</a></p>
     <p>:heavy_check_mark:优点：</p>
     <ul>
-        <li>优点</li>
+        <li>优点1</li>
     </ul>
     <p>:x:缺点：</p>
     <ul>
-        <li>缺点</li>
+        <li>缺点1</li>
     </ul>
 </div>
 <br />
@@ -26,8 +26,8 @@
 
 ```html
 <div id="模板">
-    <a href="模板">
-        <img alt="" width="16" src="圖片地址"/>
+    <a href="模板" title="模板">
+        <img alt="" width="16" src="圖標地址"/>
         模板
     </a>
     <p>介紹：<a href="開源倉庫地址">:octocat:</a></p>
@@ -47,8 +47,8 @@
 
 ```html
 <div id="template">
-    <a href="template">
-        <img alt="" width="16" src="address"/>
+    <a href="template" title="template">
+        <img alt="" width="16" src="icon address"/>
         template
     </a>
     <p>Introduction : <a href="open source address">:octocat:</a></p>
