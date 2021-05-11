@@ -13,7 +13,7 @@
     <div id="language">
         <a href="README.md">简体中文</a>
         &nbsp;|&nbsp;
-        <a href="README_TC.md">繁體中文</a>
+        <a href="README_TW.md">繁體中文</a>
         &nbsp;|&nbsp;
         <a href="README_EN.md">English</a>
     </div>
