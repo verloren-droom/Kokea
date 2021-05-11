@@ -18,8 +18,8 @@
     <ul>
         <li>缺点</li>
     </ul>
-    <br />
 </div>
+<br />
 ```
 
 > 繁體中文
@@ -39,8 +39,8 @@
     <ul>
         <li>缺點1</li>
     </ul>
-    <br />
 </div>
+<br />
 ```
 
 > English
@@ -60,8 +60,8 @@
     <ul>
         <li>first disadvantage</li>
     </ul>
-    <br />
 </div>
+<br />
 ```
 
 ## :book:編寫
