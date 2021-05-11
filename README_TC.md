@@ -29,6 +29,7 @@
 * [:art:美術](#art)
 * [:computer:計算機](#computer)
 * [:cloud:網盤](#netdisc)
+* [:bulb:素材](#material)
 
 <!--utilities start-->
 <div id="utilities">
@@ -132,7 +133,16 @@
     </div>
     <br />
     <div id="jjdown">
-        <span><img alt="" width="16" src="https://www.jijidown.com/static/favicon.ico"/><a href="https://www.jijidown.com/">JDown主站</a></span> | <span><a href="http://client.jijidown.com/">JJDown客戶端</a></span>
+        <span>
+            <img alt="" width="16" src="https://www.jijidown.com/static/favicon.ico"/>
+            <a href="https://www.jijidown.com/">
+            JJDown主站
+            </a>
+            &nbsp;|&nbsp;
+            <a href="http://client.jijidown.com/">
+                JJDown客戶端
+            </a>
+        </span>
         <p>介紹：b站下載工具。</p>
         <p>:heavy_check_mark:優點：</p>
         <ul>
@@ -214,6 +224,23 @@
         </ul>
     </div>
     <br />
+    <div id="themepack">
+        <a href="https://themepack.me/">
+            <img alt="" width="16" src="https://themepack.me/static/st/favicon/favicon-16x16.png"/>
+            Windows 10 Themes
+        </a>
+        <p>介紹：Windows 10 主題</p>
+        <p>:heavy_check_mark:優點：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺點：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+
 </div>
 <!--beautify end-->
 
@@ -251,6 +278,23 @@
             <li></li>
         </ul>
     </div>
+    <br />
+    <div id="tosound">
+        <a href="https://www.tosound.com/">
+            <img alt="" width="16" src="https://www.tosound.com/favicon.ico"/>
+            淘聲網
+        </a>
+        <p>介紹：聲音搜索引擎</p>
+        <p>:heavy_check_mark:優點：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺點：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
 </div>
 <!--music end-->
 
@@ -365,6 +409,44 @@
         </ul>
     </div>
     <br />
+    <div id="mediBang">
+        <span>
+            <a href="https://medibang.com/">
+                <img alt="" width="16" src="https://medibang.com/resources/images/favicon-artstreet.ico?_=20210506110623"/>
+                MediBang主站
+            </a>
+            &nbsp;|&nbsp;
+            <a href="https://medibangpaint.com/zh_TW/">
+                MediBang客戶端
+            </a>
+        </span>
+        <p>介紹：免費漫畫插畫繪圖</p>
+        <p>:heavy_check_mark:優點：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺點：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+    <div id="removebg">
+        <a href="https://www.remove.bg/zh">
+            <img alt="" width="16" src="https://www.remove.bg/favicon.ico?v=YAXaAv7pao"/>
+            remove.bg
+        </a>
+        <p>介紹：消除圖片背景。</p>
+        <p>:heavy_check_mark:優點：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺點：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
 </div>
 <!--art end-->
 
@@ -427,3 +509,41 @@
     <br />
 </div>
 <!--netdisc end-->
+
+<!--material start-->
+<div id="material">
+    <h3>:bulb:素材</h3>
+    <div id="aigei">
+        <a href="https://www.aigei.com/">
+            <img alt="" width="16" src="https://cdn-sqn.aigei.com/assets/site/img/icon/favicon.ico"/>
+            愛給網
+        </a>
+        <p>介紹：音效配樂、3D模型、視頻素材、遊戲素材免費下載。</p>
+        <p>:heavy_check_mark:優點：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺點：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+    <div id="free3d">
+        <a href="https://free3d.com/">
+            <img alt="" width="16" src=""/>
+            Free3D
+        </a>
+        <p>介紹：免費3D模型</p>
+        <p>:heavy_check_mark:優點：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺點：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+</div>
+<!--material end-->
