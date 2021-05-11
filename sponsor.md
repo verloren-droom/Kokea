@@ -9,7 +9,7 @@
         <img alt="" width="16" src="图片地址"/>
         模板
     </a>
-    <p>介绍：<a href="模板">:octocat:</a></p>
+    <p>介绍：<a href="开源仓库地址">:octocat:</a></p>
     <p>:heavy_check_mark:优点：</p>
     <ul>
         <li>优点</li>
@@ -18,6 +18,7 @@
     <ul>
         <li>缺点</li>
     </ul>
+    <br />
 </div>
 ```
 
@@ -29,7 +30,7 @@
         <img alt="" width="16" src="圖片地址"/>
         模板
     </a>
-    <p>介紹：<a href="模板">:octocat:</a></p>
+    <p>介紹：<a href="開源倉庫地址">:octocat:</a></p>
     <p>:heavy_check_mark:優點：</p>
     <ul>
         <li>優點1</li>
@@ -38,6 +39,7 @@
     <ul>
         <li>缺點1</li>
     </ul>
+    <br />
 </div>
 ```
 
@@ -49,7 +51,7 @@
         <img alt="" width="16" src="address"/>
         template
     </a>
-    <p>Introduction : <a href="template">:octocat:</a></p>
+    <p>Introduction : <a href="open source address">:octocat:</a></p>
     <p>:heavy_check_mark:Advantage:</p>
     <ul>
         <li>first advantage</li>
@@ -58,6 +60,7 @@
     <ul>
         <li>first disadvantage</li>
     </ul>
+    <br />
 </div>
 ```
 
