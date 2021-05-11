@@ -70,7 +70,7 @@
     <br />
     <div id="listary">
         <a href="https://www.listary.cc/">
-            <img alt="" width="16" src="https://www.listary.cc/public/static/xiazai/images/favicon.ico"/>
+            <img alt="" width="16" src="https://www.listary.cc/public/uploads/20210316/5d55ceb0a017a20d36f5406685aebd4f.png"/>
             Listary
         </a>
         <p>介紹：本地文件搜索工具。</p>
