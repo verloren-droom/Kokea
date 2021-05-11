@@ -29,7 +29,8 @@
 * [:art:美术](#art)
 * [:computer:计算机](#computer)
 * [:cloud:网盘](#netdisc)
-
+* [:bulb:素材](#material)
+* 
 <!--utilities start-->
 <div id="utilities">
     <h3>:hammer:实用</h3>
@@ -69,7 +70,7 @@
     <br />
     <div id="listary">
         <a href="https://www.listary.cc/" title="https://www.listary.cc/">
-           <img alt="" width="16" src="https://www.listary.cc/public/static/xiazai/images/favicon.ico"/>
+           <img alt="" width="16" src="https://www.listary.cc/public/uploads/20210316/5d55ceb0a017a20d36f5406685aebd4f.png"/>
             Listary
         </a>
         <p>介绍：本地文件搜索工具。</p>
@@ -223,6 +224,22 @@
         </ul>
     </div>
     <br />
+    <div id="themepack">
+        <a href="https://themepack.me/">
+            <img alt="" width="16" src="https://themepack.me/static/st/favicon/favicon-16x16.png"/>
+            Windows 10 Themes
+        </a>
+        <p>介紹：Windows 10 主题</p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
 </div>
 <!--beautify end-->
 
@@ -260,6 +277,22 @@
             <li></li>
         </ul>
     </div>
+    <div id="tosound">
+        <a href="https://www.tosound.com/">
+            <img alt="" width="16" src="https://www.tosound.com/favicon.ico"/>
+            淘声网
+        </a>
+        <p>介绍：声音搜索引擎</p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
 </div>
 <!--music end-->
 
@@ -374,6 +407,22 @@
         </ul>
     </div>
     <br />
+    <div id="removebg">
+        <a href="https://www.remove.bg/zh">
+            <img alt="" width="16" src="https://www.remove.bg/favicon.ico?v=YAXaAv7pao"/>
+            remove.bg
+        </a>
+        <p>介绍：消除图片背景。</p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
 </div>
 <!--art end-->
 
@@ -436,3 +485,41 @@
     <br />
 </div>
 <!--netdisc end-->
+
+<!--material start-->
+<div id="material">
+    <h3>:bulb:素材</h3>
+    <div id="aigei">
+        <a href="https://www.aigei.com/">
+            <img alt="" width="16" src="https://cdn-sqn.aigei.com/assets/site/img/icon/favicon.ico"/>
+            爱给网
+        </a>
+        <p>介绍：音效配乐、3D模型、视频素材、游戏素材免费下载。</p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+    <div id="free3d">
+        <a href="https://free3d.com/">
+            <img alt="" width="16" src=""/>
+            Free3D
+        </a>
+        <p>介绍：免费3D模型</p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+</div>
+<!--material end-->
