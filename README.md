@@ -6,6 +6,7 @@
         <a href="LICENSE">
             <img alt="GitHub License" src="https://img.shields.io/github/license/verloren-droom/Kokea"/>
         </a>
+        &nbsp;
         <a href="https://github.com/verloren-droom/Kokea/stargazers">
             <img alt="GitHub Stars" src="https://img.shields.io/github/stars/verloren-droom/Kokea"/>
         </a>
@@ -30,7 +31,7 @@
 * [:computer:计算机](#computer)
 * [:cloud:网盘](#netdisc)
 * [:bulb:素材](#material)
-* 
+
 <!--utilities start-->
 <div id="utilities">
     <h3>:hammer:实用</h3>
@@ -490,7 +491,7 @@
 <div id="material">
     <h3>:bulb:素材</h3>
     <div id="aigei">
-        <a href="https://www.aigei.com/">
+        <a href="https://www.aigei.com/" title="https://www.aigei.com/">
             <img alt="" width="16" src="https://cdn-sqn.aigei.com/assets/site/img/icon/favicon.ico"/>
             爱给网
         </a>
@@ -506,7 +507,7 @@
     </div>
     <br />
     <div id="free3d">
-        <a href="https://free3d.com/">
+        <a href="https://free3d.com/" title="https://free3d.com/">
             <img alt="" width="16" src=""/>
             Free3D
         </a>
@@ -518,6 +519,22 @@
         <p>:x:缺点：</p>
         <ul>
             <li></li>
+        </ul>
+    </div>
+    <br />
+    <div id="wolframalpha">
+        <a href="https://www.wolframalpha.com/" title="https://www.wolframalpha.com/">
+            <img alt="" width="16" src="https://www.wolframalpha.com/_next/static/images/favicon_fzx75d1e.ico"/>
+            WolframAlpha
+        </a>
+        <p>介绍：计算知识引擎。</p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li>优点</li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li>缺点</li>
         </ul>
     </div>
     <br />
