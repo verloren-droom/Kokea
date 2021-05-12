@@ -21,6 +21,7 @@
 
 ## 📑分类
 
+* [:sparkling_heart:生活](#life)
 * [:hammer:实用](#utilities)
 * [:cherry_blossom:美化](#beautify)
 * [:headphones:音乐](#music)
@@ -30,6 +31,33 @@
 * [:computer:计算机](#computer)
 * [:cloud:网盘](#netdisc)
 * [:bulb:素材](#material)
+
+<!--life start-->
+<div id="life">
+    <h3>:sparkling_heart:生活</h3>
+    <div id="yunyoujun">
+        <a href="https://ac.yunyoujun.cn/#/" title="https://ac.yunyoujun.cn/#/">
+            <img alt="" width="16" src="https://ac.yunyoujun.cn/favicon.png"/>
+            便携小空调
+        </a>
+        <p>介绍：云空调，便携小空调，为你的夏日带去清凉！<a href="https://github.com/YunYouJun/air-conditioner">:octocat:</a></p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li>随时随地打开空调</li>
+            <li>便携</li>
+            <li>低功耗（使用 HTML CSS 而非 Canvas 绘制）</li>
+            <li>静音</li>
+            <li>操作简单</li>
+            <li>安装便捷</li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li>没有风</li>
+        </ul>
+    </div>
+    <br />
+</div>
+<!--life end-->
 
 <!--utilities start-->
 <div id="utilities">
