@@ -359,6 +359,23 @@
         </ul>
     </div>
     <br />
+    <div id="inky">
+        <a href="https://www.inklestudios.com/" title="https://www.inklestudios.com/">
+            <img alt="" width="16" src="https://www.inklestudios.com/favicon.ico"/>
+            Inky
+        </a>
+        <p>介绍：编写属于自己的互动小说/文字冒险游戏。<a href="https://github.com/inkle/inky">:octocat:</a></p>
+        <p>:heavy_check_mark:优点：</p>
+        <ul>
+            <li></li>
+        </ul>
+        <p>:x:缺点：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
+
 </div>
 <!--game end-->
 
