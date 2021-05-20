@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="sponsor.md"><img alt="" src="" title="貢獻指南"/></a>
+    <a href="SPONSOR.md"><img alt="" src="" title="貢獻指南"/></a>
     <h1 align="center">Kokea</h1>
     <p align="center">推薦增強電腦體驗工具，只是介紹不做具體説明</p>
     <div align="center">
@@ -21,17 +21,47 @@
 
 ## 📑分類
 
-* [:hammer:實用](#utilities)
-* [:cherry_blossom:美化](#beautify)
-* [:headphones:音樂](#music)
-* [:video_game:遊戲](#game)
-* [:tv:動畫](#anim)
-* [:art:美術](#art)
-* [:computer:計算機](#computer)
-* [:cloud:網盤](#netdisc)
-* [:bulb:素材](#material)
+* :sparkling_heart:[生活](#life)
+* :hammer:[實用](#utilities)
+* :cherry_blossom:[美化](#beautify)
+* :headphones:[音樂](#music)
+* :video_game:[遊戲](#game)
+* :tv:[動畫](#anim)
+* :art:[美術](#art)
+* :computer:[計算機](#computer)
+* :cloud:[網盤](#netdisc)
+* :bulb:[素材](#material)
 
-<!--utilities start-->
+<br />
+<hr />
+<!-- life start -->
+<div id="life">
+    <h3>:sparkling_heart:生活</h3>
+    <div id="yunyoujun">
+        <a href="https://ac.yunyoujun.cn/#/" title="https://ac.yunyoujun.cn/#/">
+            <img alt="" width="16" src="https://ac.yunyoujun.cn/favicon.png"/>
+            便攜小空調
+        </a>
+        <p>介紹：雲空調，便攜小空調，為你的夏日帶去清涼！<a href="https://github.com/YunYouJun/air-conditioner" title="https://github.com/YunYouJun/air-conditioner">:octocat:</a></p>
+        <p>:heavy_check_mark:優點：</p>
+        <ul>
+            <li>隨時隨地打開空調</li>
+            <li>便攜</li>
+            <li>低功耗（使用 HTML CSS 而非 Canvas 繪製）</li>
+            <li>靜音</li>
+            <li>操作簡單</li>
+            <li>安裝便捷</li>
+        </ul>
+        <p>:x:缺點：</p>
+        <ul>
+            <li>沒有風</li>
+        </ul>
+    </div>
+    <br />
+</div>
+<!-- life end -->
+
+<!-- utilities start -->
 <div id="utilities">
     <h3>:hammer:實用</h3>
     <div id="ditto">
@@ -154,10 +184,27 @@
         </ul>
     </div>
     <br />
+    <div id="gimp">
+        <a href="http://gimp.baisheng999.com" title="http://gimp.baisheng999.com">
+            <img alt="" width="16" src="http://gimp.baisheng999.com/favicon.ico" title="GIMP"/>
+            GIMP
+        </a>
+        <p>介紹：免費開源圖形軟件。<a href="https://github.com/GNOME/gimp" title="https://github.com/GNOME/gimp">:octocat:</a></p>
+        <p>:heavy_check_mark:優點：</p>
+        <ul>
+            <li>資源佔用比許多圖形處理軟件要小得多。</li>
+            <li>多平臺</li>
+        </ul>
+        <p>:x:缺點：</p>
+        <ul>
+            <li></li>
+        </ul>
+    </div>
+    <br />
 </div>
-<!--utilities end-->
+<!-- utilities end -->
 
-<!--beautify start-->
+<!-- beautify start -->
 <div id="beautify">
     <h3>:cherry_blossom:美化</h3>
     <div id="modernFlyouts">
@@ -241,9 +288,9 @@
     </div>
     <br />
 </div>
-<!--beautify end-->
+<!-- beautify end -->
 
-<!--music start-->
+<!-- music start -->
 <div id="music">
     <h3>:headphones:音樂</h3>
     <div id="audacity">
@@ -295,9 +342,9 @@
     </div>
     <br />
 </div>
-<!--music end-->
+<!-- music end -->
 
-<!--game start-->
+<!-- game start -->
 <div id="game">
     <h3>:video_game:遊戲</h3>
     <div id="godot">
@@ -333,9 +380,9 @@
     </div>
     <br />
 </div>
-<!--game end-->
+<!-- game end -->
 
-<!--anim start-->
+<!-- anim start -->
 <div id="anim">
     <h3>:tv:動畫</h3>
     <div id="tahoma2d">
@@ -371,9 +418,9 @@
     </div>
     <br />
 </div>
-<!--anim end-->
+<!-- anim end -->
 
-<!--art start-->
+<!-- art start -->
 <div id="art">
     <h3>:art:美術</h3>
     <div id="aseprite">
@@ -447,9 +494,9 @@
     </div>
     <br />
 </div>
-<!--art end-->
+<!-- art end -->
 
-<!--computer start-->
+<!-- computer start -->
 <div id="computer">
     <h3>:computer:計算機</h3>
     <div id="golang">
@@ -517,9 +564,9 @@
     </div>
     <br />
 </div>
-<!--computer end-->
+<!-- computer end -->
 
-<!--netdisc start-->
+<!-- netdisc start -->
 <div id="netdisc">
     <h3>:cloud:網盤</h3>
     <div id="lzy">
@@ -555,9 +602,9 @@
     </div>
     <br />
 </div>
-<!--netdisc end-->
+<!-- netdisc end -->
 
-<!--material start-->
+<!-- material start -->
 <div id="material">
     <h3>:bulb:素材</h3>
     <div id="aigei">
@@ -657,4 +704,4 @@
     </div>
     <br />
 </div>
-<!--material end-->
+<!-- material end -->
