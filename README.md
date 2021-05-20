@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="sponsor.md"><img alt="" src="" title="贡献指南"/></a>
+    <a href="SPONSOR.md"><img alt="" src="" title="贡献指南"/></a>
     <h1 align="center">Kokea</h1>
     <p align="center">推荐增强电脑体验工具，只是介绍不做具体说明</p>
     <div align="center">
@@ -21,17 +21,19 @@
 
 ## 📑分类
 
-* [:sparkling_heart:生活](#life)
-* [:hammer:实用](#utilities)
-* [:cherry_blossom:美化](#beautify)
-* [:headphones:音乐](#music)
-* [:video_game:游戏](#game)
-* [:tv:动画](#anim)
-* [:art:美术](#art)
-* [:computer:计算机](#computer)
-* [:cloud:网盘](#netdisc)
-* [:bulb:素材](#material)
+* :sparkling_heart:[生活](#life)
+* :hammer:[实用](#utilities)
+* :cherry_blossom:[美化](#beautify)
+* :headphones:[音乐](#music)
+* :video_game:[游戏](#game)
+* :tv:[动画](#anim)
+* :art:[美术](#art)
+* :computer:[计算机](#computer)
+* :cloud:[网盘](#netdisc)
+* :bulb:[素材](#material)
 
+<br />
+<hr />
 <!--life start-->
 <div id="life">
     <h3>:sparkling_heart:生活</h3>
