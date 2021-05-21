@@ -64,13 +64,15 @@
 <br />
 ```
 
-## :book:編寫
+## :book:編寫資源
 
-> [markdown语法](https://github.com/guodongxiaren/README)
+> [Markdown语法](https://github.com/guodongxiaren/README)
 > 
-> [Create badges](https://shields.io/)
+> [创建徽章](https://shields.io/)
 > 
-> [动态生成的 GitHub 统计信息](https://github.com/anuraghazra/github-readme-stats)
+> [动态生成的GitHub统计信息](https://github.com/anuraghazra/github-readme-stats)
+> 
+> [GitHub短網址](https://git.io/)
 
 ## :two_men_holding_hands:貢獻者
 <a href="https://github.com/verloren-droom/Kokea/graphs/contributors">貢獻者</a>
