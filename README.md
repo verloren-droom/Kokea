@@ -167,12 +167,18 @@
 
 
 #### [<img src="https://themepack.me/static/st/favicon/favicon-16x16.png" title=" Windows 10 Themes" width="24px"   alt=""/>Windows 10 Themes](https://themepack.me/)
+
 * __介绍：__  Windows 10 主题
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
     - 
-
+#### [<img src="https://github.com/da2x/EdgeDeflector/blob/master/EdgeDeflector/Icon.ico" width="24px" alt=""/>EdgeDeflector](https://www.ctrl.blog/entry/edgedeflector-default-browser.html)
+* __介绍：__  令 Cortana 使用你的默认浏览器[Windows] [📦](https://github.com/da2x/EdgeDeflector)
+* :heavy_check_mark:__优点：__
+    - 
+* :x:__缺点：__
+    - 
 <br /><a id="music"></a>
 
 ### :headphones:音乐
@@ -281,7 +287,7 @@
 
 * __介绍：__  免费漫画插画绘图
 * :heavy_check_mark:__优点：__
-    -
+    - 
 * :x:__缺点：__
     - 
 
@@ -290,9 +296,151 @@
 
 * __介绍：__  消除图片背景。
 * :heavy_check_mark:__优点：__
-    -
+    - 
 * :x:__缺点：__
-    -
+    - 
+
+
+#### [<img src="https://www.blender.org/wp-content/themes/bthree/assets/images/favicon.ico?x20228" width="24px" alt=""/>Blender](https://www.blendercn.org/)
+
+* __介绍：__  Blender是一款免费开源三维图形图像软件。 [📦](https://svn.blender.org/svnroot/bf-blender/trunk/blender/)
+* :heavy_check_mark:__优点：__
+    - 提供从建模、动画、材质、渲染、到音频处理、视频剪辑等一系列动画短片制作解决方案。
+    - 学习教程相对较多
+* :x:__缺点：__
+    - 对新手太不友好，不论是萌新还是转职。
+
+
+#### [<img src="https://brandcolors.net/assets/favicons/favicon-32x32.png?v=6.6" width="24xp" alt="">BrandColors](https://brandcolors.net/)
+
+* __介绍：__  全球知名品牌的颜色代码大全
+* :heavy_check_mark:__优点：__
+    - 收集了全球知名大品牌的颜色代码
+    - BrandColors 可以通过搜索品牌名称就可以看到颜色结果
+* :x:__缺点：__
+    - 只有英文界面
+
+
+#### [<img src="https://mycolor.space/favicon5.png" width="24px" alt=""/>ColorSpace](https://mycolor.space/)
+
+* __介绍：__  色彩空间在线调色神器。
+* :heavy_check_mark:__优点：__
+    - 非常适合网页设计师
+* :x:__缺点：__
+    - 只有英文界面
+
+
+#### [<img src="https://webgradients.com/favicons/favicon-32x32.png" width="24px" alt="">WebGradients](https://webgradients.com/)
+
+* __介绍：__  设计师的色彩百宝箱，渐变色在线工具。[📦](https://github.com/itmeo/webgradients)
+* :heavy_check_mark:__优点：__
+    - 提供 180 个线性渐变的搭配方式，您可以将其用作网站任何部分的内容背景
+    - 轻松复制 CSS3 代码
+    - 免费提供给商业或个人使用
+* :x:__缺点：__
+    - 只有英文界面
+
+
+#### [<img src="https://colorleap.app/favicon.ico" width="24px" alt="">ColorLeap](https://colorleap.app/home)
+
+* __介绍：__  复古配色方案在线工具。
+* :heavy_check_mark:__优点：__
+    - 可以查询每个年代辉煌的的流行配色
+* :x:__缺点：__
+    - 只有英文界面
+
+
+#### [<img src="https://www.culrs.com/favicon.png" width="24xp" alt="">Culrs](https://www.culrs.com/#/)
+
+* __介绍：__  在线调色板，提供设计配色方案。
+* :heavy_check_mark:__优点：__
+    - 提供超人性化配色分类
+* :x:__缺点：__
+    - 只有英文界面
+
+
+#### [<img src="https://film-grab.com/wp-content/uploads/2019/02/icon.jpg" width="24px" alt="">FilmGrab](https://film-grab.com/)
+
+* __介绍：__  无论你喜欢的是纪录片、 科幻片、情感剧或者其他类型，这里都有截图，而且都是高清。目前为止已经收录超100万张了，横跨100多年，每张截图都是人工采集，一眼看起来就有灵魂，带你回温电影里的故事。
+* :heavy_check_mark:__优点：__
+    - 每一张都是高清无码的大图
+    - 可以按照影片名称进行查看，也可以按照国家、图片比例或者年份进行查看
+* :x:__缺点：__
+    - 只有英文界面
+
+
+#### [<img src="https://pic.500px.me/images/favicon_n.ico" width="24px" alt="">500px](https://500px.com.cn/)
+
+* __介绍：__  500px是一个致力于摄影分享、发现、售卖的专业平台，来自世界各地的摄影师是我们忠实的用户。
+* :heavy_check_mark:__优点：__
+    - 可在线售图
+    - 资源丰富
+* :x:__缺点：__
+    - 
+
+#### [<img src="https://pixabay.com/favicon-32x32.png" width="24px" alt="">Pixabay](https://pixabay.com/zh/)
+
+* __介绍：__ 免费正版高清图片素材库。
+* :heavy_check_mark:__优点：__
+    - Pixabay拥有超过2.3百万张优质图片和视频素材，让你轻松应对各种设计场景
+* :x:__缺点：__
+    - 支持中英文搜索，由于是外国网站，当然使用英文搜索的结果更多更准确
+    - 下载最高分辫率的图片则需要注册，其余分辫率直接免费下载
+
+
+#### [<img src="https://unsplash.com/apple-touch-icon.png" width="24px" alt="">Unsplash](https://unsplash.com/)
+
+* __介绍：__ 优美高清图片壁纸设计素材资源网站 。[📦](https://github.com/unsplash/)
+* :heavy_check_mark:__优点：__
+    - 免费、无版权
+    - 可用做任何用途 (包括商业使用)
+* :x:__缺点：__
+    - 只有英文界面
+
+
+#### [<img src="https://www.pexels.com/favicon.ico" width="24px" alt="">Pexels](https://www.pexels.com/zh-cn/)
+
+* __介绍：__ 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
+* :heavy_check_mark:__优点：__
+    - 能更改多种语言
+    - 可以免费将其用于任何个人和商业目的
+    - 您可以开始关注 Pexels上您最喜爱的摄影师。
+    - 会显示图片信息，包括上传日期、镜头、大小、分辨率、相机、软件、拍摄时间、宽高比及颜色
+    - 可筛选图片方向、大小和颜色
+* :x:__缺点：__
+    - 
+
+
+#### [<img src="https://cdn-cajkg.nitrocdn.com/ZJzLelPaQQUYcIzKvveTxTAioLgFVwpU/assets/static/source/rev-cd29551/wp-content/themes/foodiesfeed/library/images/favicon/favicon.ico" width="24px" alt=""/>FoodiesFeed](https://www.foodiesfeed.com/)
+
+* __介绍：__  优秀的美食、食材、料理图库。
+* :heavy_check_mark:__优点：__
+    - 提供免费可商用的食物、烘培、烹饪主题图片下载
+    - 这些照片都是摄影师进过后期加工PS过的，所以照片上面的食物都诱人无比
+    - 同时对国内浏览友好，访问速度很快，无需注册也可以免费下载
+    - 支持简体中文
+* :x:__缺点：__
+    - 食物图片数量并非海量
+
+
+#### [<img src="https://cc0.cn/favicon.ico" width="24px" alt="">CC零图片网](https://cc0.cn/)
+
+* __介绍：__ 免费图片大全、可商业用途的图片素材网。
+* :heavy_check_mark:__优点：__
+    - 可用于商业用途的免费图片
+    - 网站已经按细类划分，国内访问速度很快。
+* :x:__缺点：__
+    - 
+
+
+#### [<img src="https://www.logosc.cn/img/so/search_logo.png" width="24px" alt="">Logo神器](https://www.logosc.cn/so/)
+
+* __介绍：__ 免费版权图片一键搜索![📦](https://github.com/unsplash/)
+* :heavy_check_mark:__优点：__
+    - 一键搜索多家免版权图库，再也不用担心商用图片侵权了。
+* :x:__缺点：__
+    - 没有详细图片说明
+
 
 <br /><a id="computer"></a>
 
@@ -312,9 +460,9 @@
 
 * __介绍：__  golang包查询。
 * :heavy_check_mark:__优点：__
-    - 
+    - 可查詢所有golang的包，及使用文檔
 * :x:__缺点：__
-    - 
+    - 沒有中文
 
 
 #### [<img src="https://s.ipaddress.com/favicon.ico" title="IPAddress" width="24px"   alt=""/>IPAddress](https://www.ipaddress.com/)
