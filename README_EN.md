@@ -3,23 +3,25 @@
     <h1 align="center">Kokea</h1>
     <p align="center">It is recommended to enhance the computer experience tool, but it is introduced without specific instructions</p>
     <div align="center">
-        <a href="LICENSE">
+        <a href="https://github.com/verloren-droom/Kokea/blob/main/LICENSE">
             <img alt="GitHub License" src="https://img.shields.io/github/license/verloren-droom/Kokea"/>
         </a>
+        &nbsp;&nbsp;
         <a href="https://github.com/verloren-droom/Kokea/stargazers">
             <img alt="GitHub Stars" src="https://img.shields.io/github/stars/verloren-droom/Kokea"/>
         </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/verloren-droom/Kokea/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/verloren-droom/Kokea"></a>
     </div>
     <div id="language">
         <a href="README.md">简体中文</a>
-        &nbsp;|&nbsp;
+        &nbsp;<b>·</b>&nbsp;
         <a href="README_TW.md">繁體中文</a>
-        &nbsp;|&nbsp;
+        &nbsp;<b>·</b>&nbsp;
         <a href="README_EN.md">English</a>
     </div>
 </div>
-
-<p align="right">該部分由谷歌翻譯</p>
+<div align="right">該部分由<img src="https://ssl.gstatic.com/translate/favicon.ico"  width="20px"/>谷歌翻譯</div>
 
 ## 📑Classification
 
@@ -33,410 +35,384 @@
 * :cloud:[Netdisc](#netdisc)
 * :bulb:[Material](#material)
 
-<br />
-<hr />
-<!-- utilities start -->
-<div id="utilities">
-    <h3>:hammer:Utilities</h3>
-    <div id="ditto">
-        <a href="https://ditto-cp.sourceforge.io/" title="https://ditto-cp.sourceforge.io/">
-            <img alt="" width="16" src="https://ditto-cp.sourceforge.io/Ditto2.png"/>Ditto
-        </a>
-        <p>Introduction : Ditto is an extension to the standard windows clipboard.<a href="https://github.com/sabrogden/Ditto">:octocat:</a></p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-            <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="ect">
-        <a href="https://easycattimer.com/" title="https://easycattimer.com/">
-            <img alt="" width="16" src="https://github.com/xujiangjiang/Easy-Cat-Timer/blob/master/CatTimer%20WpfProject/Asset/Icon/Icon.ico"/>Easy-Cat-Timer
-        </a>
-        <p>Introduction : Very simple cat timer.<a href="https://github.com/xujiangjiang/Easy-Cat-Timer">:octocat:</a></p>
-        <p>:heavy_check_mark:Advantage：</p>
-        <ul>
-            <li>very cute</li>
-            <li>very simple</li>
-        </ul>
-        <p>:x:Disadvantage：</p>
-        <ul>
-            <li>very cute</li>
-            <li>very simple</li>
-        </ul>
-    </div>
-    <br />
-    <div id="listary">
-        <a href="https://www.listary.cc/" title="https://www.listary.cc/">
-            <img alt="" width="16" src="https://www.listary.cc/public/static/xiazai/images/favicon.ico"/>Listary
-        </a>
-        <p>Introduction : Local file search tool.</p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="snipaste">
-        <a href="https://www.snipaste.com/" title="https://www.snipaste.com/">
-            <img alt="" width="16" src="https://zh.snipaste.com/favicon.ico"/>Snipaste
-        </a>
-        <p>Introduction : Powerful desktop screenshot software.<a href="https://github.com/Snipaste/feedback">:octocat:</a></p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="picpick">
-        <a href="https://picpick.app/en/" title="https://picpick.app/en/">
-            <img alt="" width="16" src="https://picpick.app/icons-32ef3f284ce5058bd11263e9796a5606/favicon.ico"/>PicPick
-        </a>
-        <p>Introduction : All-round design tool.</p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="rime">
-        <a href="https://rime.im/" title="https://rime.im/">
-            <img alt="" width="16" src="https://rime.im/favicon.png"/>RIME
-        </a>
-        <p>Introduction : Input method.<a href="https://github.com/rime/weasel">:octocat:</a></p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="jjdown">
-        <span>
-            <img alt="" width="16" src="https://www.jijidown.com/static/favicon.ico"/>
-            <a href="https://www.jijidown.com/" title="https://www.jijidown.com/">
-                JJDown
-            </a>
-            &nbsp;|&nbsp;
-            <a href="http://client.jijidown.com/" title="http://client.jijidown.com/">
-                JJDown client
-            </a>
-        </span>
-        <p>Introduction : bilibili download tool.</p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-</div>
-<!-- utilities end -->
+<br /><a id="life"></a>
 
-<!-- beautify start -->
-<div id="beautify">
-    <h3>:cherry_blossom:Beautify</h3>
-    <div id="modernFlyouts">
-        <a href="https://modernflyouts-community.github.io/" title="https://modernflyouts-community.github.io/">
-            <img alt="" width="16" src="https://modernflyouts-community.github.io/favicon.ico"/>
-            ModernFlyouts
-        </a>
-        <p>Introduction : Replace Windows 10 original volume indicator, flight mode indicator, uppercase and lowercase switch indicator, digital zone switch indicator gadgets.<a href="https://github.com/ModernFlyouts-Community/ModernFlyouts">:octocat:</a></p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="mydock">
-        <a href="https://www.mydockfinder.com/" title="https://www.mydockfinder.com/">
-            <img alt="" width="16" src="https://www.mydockfinder.com/wp-content/uploads/2020/12/dock.ico"/>
-            MyDock&MyFinder
-        </a>
-        <p>Introduction : Experience the ultimate simulation of Mac OS system desktop.</p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="rainmeter">
-        <a href="https://www.rainmeter.net/" title="https://www.rainmeter.net/">
-            <img alt="" width="16" src="https://www.rainmeter.net/favicon.ico"/>
-            Rainmeter
-        </a>
-        <p>Introduction : A system monitoring tool that visualizes system monitoring data and can present it in different forms.</p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="carnac">
-        <a href="http://code52.org/carnac/" title="http://code52.org/carnac/">
-            <img alt="" width="16" src="http://code52.org/carnac/favicon.ico"/>
-            Carnac
-        </a>
-        <p>Introduction : Keyboard operation real-time display tool.<a href="https://github.com/Code52/carnac">:octocat:</a></p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-</div>
-<!-- beautify end -->
+### :sparkling_heart:life
 
-<!-- music start -->
-<div id="music">
-    <h3>:headphones:Music</h3>
-    <div id="audacity">
-        <a href="https://audacity.onl/" title="https://audacity.onl/">
-            <img alt="" width="16" src="https://audacity.onl/wp-content/uploads/2018/08/Audacity.png"/>
-            Audacity
-        </a>
-        <p>Introduction : Let you easily edit music files without burden.</p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="erlingwang">
-        <a href="https://www.ear0.com/" title="https://www.ear0.com/">
-            <img alt="" width="16" src="https://www.ear0.com/public/images/favicon.ico"/>
-            erlingwang
-        </a>
-        <p>Introduction : Voice sharing platform.</p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-</div>
-<!-- music end -->
+#### [<img src="https://ac.yunyoujun.cn/favicon.png" width="24px" alt="" />]Yun Air Conditioner (https://ac.yunyoujun.cn/#/)
 
-<!-- game start -->
-<div id="game">
-    <h3>:video_game:Game</h3>
-    <div id="godot">
-        <a href="https://godotengine.org/" title="https://godotengine.org/">
-            <img alt="" width="16" src="https://godotengine.org/themes/godotengine/assets/favicon.png"/>
-            Godot
-        </a>
-        <p>Introduction : The open source game engine is a software for making games that can make 2D and 3D games.<a href="https://github.com/godotengine/godot">:octocat:</a></p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="renpy">
-        <a href="https://www.renpy.org/" title="https://www.renpy.org/">
-            <img alt="" width="16" src="https://www.renpy.org/static/favicon.ico"/>
-            Ren'Py
-        </a>
-        <p>Introduction : Visual novel engine.<a href="https://github.com/renpy/renpy">:octocat:</a></p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-</div>
-<!-- game end -->
+* __Introduction:__ Cloud air conditioner, portable small air conditioner, bring coolness to your summer![📦](https://github.com/YunYouJun/air-conditioner)
+* :heavy_check_mark:__Advantage:__
+    - Turn on the air conditioner anytime, anywhere
+    - Portable
+    - Low power consumption (use HTML CSS instead of Canvas for drawing)
+    - Mute
+    - easy to use
+    - Easy to install
+* :x:__Disadvantages:__ 
+    - No wind
 
-<!-- anim start -->
-<div id="anim">
-    <h3>:tv:Animation</h3>
-    <div id="tahoma2d">
-        <a href="https://tahoma2d.org/" title="https://tahoma2d.org/">
-            <img alt="" width="16" src="https://tahoma2d.org/img/favicon.ico"/>
-            Tahoma2D
-        </a>
-         <p>Introduction : Animation software based on <a href="#opentoonz">Opentoonz</a>.<a href="https://github.com/tahoma2d/tahoma2d">:octocat:</a></p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="opentoonz">
-        <a href="http://opentoonz.github.io/" title="http://opentoonz.github.io/">
-            <img alt="" width="16" src="http://opentoonz.github.io/img/favicon.ico"/>
-            Opentoonz
-        </a>
-        <p>Introduction : Open source animation software.<a href="https://github.com/opentoonz/opentoonz">:octocat:</a></p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-</div>
-<!-- anim end -->
+<br /><a id="utilities"></a>
 
-<!-- art start -->
-<div id="art">
-    <h3>:art:Art</h3>
-    <div id="aseprite">
-        <a href="https://www.aseprite.org/" title="https://www.aseprite.org/">
-            <img alt="" width="16" src="https://www.aseprite.org/assets/images/favicon.png"/>
-            Aseprite
-        </a>
-        <p>Introduction : Professional animation tool for creating pixel style animation.<a href="https://github.com/aseprite/aseprite">:octocat:</a></p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="magicavoxel">
-        <a href="http://ephtracy.github.io/">
-            <img alt="" width="16" src="http://ephtracy.github.io/favicon.png"/>MagicaVoxel
-        </a>
-        <p>Introduction : Lightweight pixel modeling tool.<a href="https://github.com/lachlanmcdonald/magicavoxel-shaders">:octocat:</a></p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-</div>
-<!-- art end -->
 
-<!-- computer start -->
-<div id="computer">
-    <h3>:computer:Computer</h3>
-    <div id="golang">
-        <a href="https://pkg.go.dev/" title="https://pkg.go.dev/">
-            <img alt="" width="16" src="https://pkg.go.dev/static/img/go-logo-blue.svg"/>
-            go dev
-        </a>
-        <p>Introduction : Golang package query.</p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-</div>
-<!-- computer end -->
+### :hammer:Utilities
 
-<!-- netdisc start -->
-<div id="netdisc">
-    <h3>:cloud:Netdisc</h3>
-    <div id="lzy">
-        <a href="https://pc.woozooo.com/" title="https://pc.woozooo.com/">
-            <img alt="" width="16" src="https://pc.woozooo.com/favicon.ico"/>
-            LanzouCloud
-        </a>
-        <p>Introduction : Experience true cloud acceleration. There are no restrictions on downloading, no verification codes and other restrictions that affect user experience.</p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-    <div id="cow">
-        <a href="https://cowtransfer.com/" title="https://cowtransfer.com/">
-            <img alt="" width="16" src="https://background.cowtransfer.com/favicon-16x16.png"/>
-            Cowtransfer
-        </a>
-        <p>Introduction : File uploads and downloads can be completed without logging in, upload and download are never limited in speed, 3T ultra-large capacity network disk space, and can support up to 20GB large file transfers.</p>
-        <p>:heavy_check_mark:Advantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-        <p>:x:Disadvantage:</p>
-        <ul>
-            <li></li>
-        </ul>
-    </div>
-    <br />
-</div>
-<!-- netdisc end -->
+#### [<img src="https://ditto-cp.sourceforge.io/Ditto2.png"  width="24px"  alt="" />Ditto](https://ditto-cp.sourceforge.io/)
 
-<!-- material start -->
-<div id="material">
-    <h3>:bulb:Material</h3>
-</div>
-<!-- material end -->
+* __Introduction:__  Computer clipboard enhancement artifact.[📦](https://github.com/sabrogden/Ditto)
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://github.com/xujiangjiang/Easy-Cat-Timer/blob/master/CatTimer%20WpfProject/Asset/Icon/Icon.ico" width="24px"  alt="" />Easy-Cat-Timer](https://easycattimer.com/)
+
+* __Introduction:__  Very simple cat timer.[📦](https://github.com/xujiangjiang/Easy-Cat-Timer)
+* :heavy_check_mark:__Advantage:__
+    - very cute
+    - very simple
+* :x:__Disadvantages:__
+    - very cute
+    - very simple
+
+
+#### [ <img src="https://www.listary.cc/public/uploads/20210316/5d55ceb0a017a20d36f5406685aebd4f.png" title="Listary " width="24px"  alt="" />Listary](https://www.listary.cc/)
+* __Introduction:__  Local file search tool.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+#### [<img src="https://zh.snipaste.com/favicon.ico" title="Snipaste" width="24px"  alt=""/>Snipaste](https://zh.snipaste.com/index.html)
+* __Introduction:__  Powerful desktop screenshot software.[📦](https://github.com/Snipaste/feedback)
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+#### [<img src="https://picpick.app/icons-32ef3f284ce5058bd11263e9796a5606/favicon.ico" title="PicPick" width="24px"  alt=""/>PicPick](https://picpick.app/zh/)
+
+* __Introduction:__ All-round design tool.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+#### [<img src="https://rime.im/favicon.png" title="RIME" width="24px"   alt=""/>RIME](https://rime.im/)
+
+* __Introduction:__ Input method.[📦](https://github.com/rime/weasel)
+* :heavy_check_mark:__Advantage:__
+    - Multi-platform
+    - Customizable style
+    - No ads
+* :x:__Disadvantages:__
+    - Relatively few thesaurus
+    - High threshold
+
+#### <img src="https://www.jijidown.com/static/favicon.ico" title="JJDown" width="24px"   alt=""/>[JJDown](https://www.jijidown.com/) /  [JJDown Client](http://client.jijidown.com/)
+
+* __Introduction:__  bilibili download tool.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+#### [<img src="http://gimp.baisheng999.com/favicon.ico" title="GIMP" width="24px"   alt=""/>GIMP](http://gimp.baisheng999.com)
+
+* __Introduction:__ Free and open source graphics software. [📦](https://github.com/GNOME/gimp)
+* :heavy_check_mark:__Advantage:__
+    - The resource occupancy is much smaller than that of many graphics processing software.
+    - Multi-platform
+* :x:__Disadvantages:__
+    - Does not support Shift key to select multiple layers
+
+<br /><a id="beautify"></a>
+
+### :cherry_blossom:Beautify
+
+#### [<img  src="https://modernflyouts-community.github.io/favicon.ico" title="ModernFlyouts" width="24px"   alt=""/>ModernFlyouts](https://modernflyouts-community.github.io/)
+
+* __Introduction:__  Replace Windows 10 original volume indicator, flight mode indicator, uppercase and lowercase switch indicator, digital zone switch indicator gadgets.[📦](https://github.com/ModernFlyouts-Community/ModernFlyouts)
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://www.mydockfinder.com/wp-content/uploads/2020/12/dock.ico" title="MyDock&MyFinder" width="24px"   alt=""/>MyDock&MyFinder](https://www.mydockfinder.com/)
+
+* __Introduction:__  Experience the ultimate simulation of the Mac OS system desktop.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img  src="https://www.rainmeter.net/favicon.ico" title="Rainmeter" width="24px"   alt=""/>Rainmeter](https://www.rainmeter.net/)
+
+* __Introduction:__ A system monitoring tool that visualizes system monitoring data and can present it in different forms.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://github.com/Code52/carnac/blob/master/src/Carnac/carnac.png" title="Carnac" width="24px"   alt=""/>Carnac](http://code52.org/carnac/)
+
+* __Introduction:__ Real-time display of tools by key operation. [📦](https://github.com/Code52/carnac)
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://themepack.me/static/st/favicon/favicon-16x16.png" title=" Windows 10 Themes" width="24px"   alt=""/>Windows 10 Themes](https://themepack.me/)
+* __Introduction:__  Windows 10 Themes
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - English interface only
+
+<br /><a id="music"></a>
+
+### :headphones:Music
+
+#### [<img src="https://audacity.onl/wp-content/uploads/2018/08/Audacity.png" title="Audacity" width="24px"   alt=""/>Audacity](https://audacity.onl/)
+
+* __Introduction:__  Let you easily edit music files without burden.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://www.ear0.com/public/images/favicon.ico" title="Ěrlíngwǎng" width="24px"   alt=""/>Erlingwang](https://www.ear0.com/)
+
+* __Introduction:__ Voice sharing platform.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://www.tosound.com/favicon.ico" title="淘聲網" width="24px"   alt=""/>淘聲網](https://www.tosound.com/)
+
+* __Introduction:__ Voice search engine.
+* :heavy_check_mark:__Advantage:__
+    - Most sound effects are free
+* :x:__Disadvantages:__
+    - Download limit
+
+<br /><a id="game"></a>
+
+### :video_game:Game
+
+#### [<img  src="https://godotengine.org/themes/godotengine/assets/favicon.png" title="Godot" width="24px"   alt=""/>Godot](https://godotengine.org/)
+
+* __Introduction:__ The open source game engine is a software for making games that can make 2D and 3D games. [📦](https://github.com/godotengine/godot)
+* :heavy_check_mark:__Advantage:__
+    - Multi-platform
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://www.renpy.org/static/favicon.ico" title="Ren'Py" width="24px"   alt=""/>Ren'Py](https://www.renpy.org/)
+
+* __Introduction:__ Visual novel engine. [📦](https://github.com/renpy/renpy)
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://www.inklestudios.com/favicon.ico" title="Inky" width="24px"   alt=""/>Inky](https://www.inklestudios.com/)
+
+* __Introduction:__ Write your own interactive novel/text adventure game. [📦]("https://github.com/inkle/inky)
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+<br /><a id="anim"></a>
+
+### :tv:Animation
+
+#### [<img src="https://tahoma2d.org/img/favicon.ico" title="Tahoma2D" width="24px"   alt=""/>Tahoma2D](https://tahoma2d.org/)
+
+* __Introduction:__ Animation software based on [Opentoonz](http://opentoonz.github.io/). [📦](https://github.com/tahoma2d/tahoma2d)
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="http://opentoonz.github.io/img/favicon.ico" title="Opentoonz" width="24px"   alt=""/>Opentoonz](http://opentoonz.github.io/)
+
+
+* __Introduction:__  Open source animation software.[📦](https://github.com/opentoonz/opentoonz)
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - High threshold
+
+<br /><a id="art"></a>
+
+### :art:Art
+
+#### [<img  src="https://www.aseprite.org/assets/images/favicon.png" title="Aseprite" width="24px"   alt=""/>Aseprite](https://www.aseprite.org/)
+
+* __Introduction:__ Professional animation tool for creating pixel style animation. [📦](https://github.com/aseprite/aseprite)
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img  src="http://ephtracy.github.io/favicon.png" title="MagicaVoxel" width="24px"   alt=""/>MagicaVoxel](http://ephtracy.github.io/)
+
+* __Introduction:__ Lightweight pixel modeling tool. [📦](https://github.com/lachlanmcdonald/magicavoxel-shaders)
+* :heavy_check_mark:__Advantage:__
+    - small volume
+* :x:__Disadvantages:__
+    - 
+
+
+#### <img src="https://medibang.com/resources/images/favicon-artstreet.ico?_=20210506110623" title="MediBang" width="24px"   alt=""/>[MediBang](https://medibang.com/) / [MediBang Client:warning:](https://medibangpaint.com/zh_CN/)
+
+* __Introduction:__ Free comic illustration drawing.
+* :heavy_check_mark:__Advantage:__
+    -
+* :x:__Disadvantages:__
+    - The client needs to go over the wall to download
+
+
+#### [<img src="https://www.remove.bg/favicon.ico?v=YAXaAv7pao" title="Remove.bg" width="24px"   alt=""/>Remove.bg](https://www.remove.bg/zh)
+
+* __Introduction:__ Eliminate the picture background.
+* :heavy_check_mark:__Advantage:__
+    - Eliminate high quality
+* :x:__Disadvantages:__
+    - 
+
+<br /><a id="computer"></a>
+
+### :computer:Computer
+
+#### [<img src="https://pkg.go.dev/static/img/go-logo-blue.svg" title="go dev" width="24px"   alt=""/>go dev](https://pkg.go.dev/)
+
+* __Introduction:__ golang package query.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://s.ipaddress.com/favicon.ico" title="IPAddress" width="24px"   alt=""/>IPAddress](https://www.ipaddress.com/)
+
+* __Introduction:__ IP address query.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://light-city.club/sc/assets/images/favicon.png" title="CPlusPlusThings" width="24px"   alt=""/>CPlusPlusThings](https://light-city.club/sc/)
+
+* __Introduction:__ A more comprehensive C++ learning warehouse from entry to advanced promotion. [📦](https://github.com/Light-City/CPlusPlusThings)
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img  src="https://www.bootcdn.cn/assets/ico/favicon.ico?1618753550044" title="BootCDN" width="24px"   alt=""/>BootCDN](https://www.bootcdn.cn/)
+
+* __Introduction:__ Stable, fast, and free front-end open source project CDN acceleration service.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+<br /><a id="netdisc"></a>
+
+### :cloud:Netdisc
+
+#### [<img src="https://pc.woozooo.com/favicon.ico" title="LanzouCloud" width="24px"   alt=""/>LanzouCloud](https://pc.woozooo.com/)
+
+* __Introduction:__ Experience the real acceleration.
+* :heavy_check_mark:__Advantage:__
+    - Fast download
+    - Download without any restrictions
+    - No verification code, etc. affect user experience restrictions.
+* :x:__Disadvantages:__
+    - The size of a single file transfer cannot exceed 100M
+
+
+#### [<img src="https://background.cowtransfer.com/favicon-16x16.png" title="Cowtransfer" width="24px"   alt=""/>Cowtransfer](https://cowtransfer.com/)
+
+* __Introduction:__  netdisc.
+* :heavy_check_mark:__Advantage:__
+    - File upload and download can be completed without logging in
+    - Unlimited upload and download speed
+    - 3T large-capacity network disk space
+    - Supports up to 20GB large file transfer
+* :x:__Disadvantages:__
+    - 
+
+<br /><a id="material"></a>
+
+### :bulb:Material
+
+#### [<img src="https://cdn-sqn.aigei.com/assets/site/img/icon/favicon.ico" title="aigei" width="24px"   alt=""/>aigei](https://www.aigei.com/)
+
+* __Introduction:__ Free download of sound effects, 3D models, video materials, and game materials.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img alt="" width="16" src="" title="Free3D"/>Free3D](https://free3d.com/)
+
+* __Introduction:__ Free 3D models.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://www.wolframalpha.com/_next/static/images/favicon_fzx75d1e.ico" title="WolframAlpha" width="24px"   alt=""/>WolframAlpha](https://www.wolframalpha.com/)
+
+* __Introduction:__  
+* :heavy_check_mark:__Advantage:__
+    - Computational knowledge engine.
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://static.allhistory.com/online/common/img/logo-ah.1598.svg" title="AllHistory" width="24px"   alt=""/>AllHistory](https://www.allhistory.com/)
+
+* __Introduction:__ Historical science website.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="http://www.coursade.com/media/favicon.png" title="Coursade" width="24px"   alt=""/>Coursade](http://www.coursade.com/)
+
+* __Introduction:__ Explore online learning.
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 
+
+
+#### [<img src="https://www.textures.com/favicon.ico" title="Textures" width="24px"   alt=""/>Textures](https://www.textures.com/)
+
+* __Introduction:__ 3D texture. 
+* :heavy_check_mark:__Advantage:__
+    - 
+* :x:__Disadvantages:__
+    - 

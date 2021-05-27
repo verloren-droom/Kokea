@@ -3,12 +3,15 @@
     <h1 align="center">Kokea</h1>
     <p align="center">推荐增强电脑体验工具，只是介绍不做具体说明</p>
     <div align="center">
-        <a href="LICENSE">
-        <img alt="GitHub License" src="https://img.shields.io/github/license/verloren-droom/Kokea"/>
+        <a href="https://github.com/verloren-droom/Kokea/blob/main/LICENSE">
+            <img alt="GitHub License" src="https://img.shields.io/github/license/verloren-droom/Kokea"/>
         </a>
+        &nbsp;&nbsp;
         <a href="https://github.com/verloren-droom/Kokea/stargazers">
-        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/verloren-droom/Kokea"/>
+            <img alt="GitHub Stars" src="https://img.shields.io/github/stars/verloren-droom/Kokea"/>
         </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/verloren-droom/Kokea/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/verloren-droom/Kokea"></a>
     </div>
     <div id="language">
         <a href="README.md">简体中文</a>
@@ -38,7 +41,7 @@
 
 #### [<img src="https://ac.yunyoujun.cn/favicon.png" width="24px" alt="" />便携小空调](https://ac.yunyoujun.cn/#/)
 
-* __介绍：__    云空调，便携小空调，为你的夏日带去清凉！[:octocat:](https://github.com/YunYouJun/air-conditioner)
+* __介绍：__    云空调，便携小空调，为你的夏日带去清凉！[📦](https://github.com/YunYouJun/air-conditioner)
 * :heavy_check_mark:__优点：__
     - 随时随地打开空调
     - 便携
@@ -51,11 +54,13 @@
 
 <br /><a id="utilities"></a>
 
+
+
 ### :hammer:实用
 
 #### [<img src="https://ditto-cp.sourceforge.io/Ditto2.png"  width="24px"  alt="" />Ditto](https://ditto-cp.sourceforge.io/)
 
-* __介绍：__  电脑剪贴板增强神器。[:octocat:](https://github.com/sabrogden/Ditto)
+* __介绍：__  电脑剪贴板增强神器。[📦](https://github.com/sabrogden/Ditto)
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
@@ -64,7 +69,7 @@
 
 #### [<img src="https://github.com/xujiangjiang/Easy-Cat-Timer/blob/master/CatTimer%20WpfProject/Asset/Icon/Icon.ico" width="24px"  alt="" />Easy-Cat-Timer](https://easycattimer.com/)
 
-* __介绍：__  非常简单的猫咪计时器。[:octocat:](https://github.com/xujiangjiang/Easy-Cat-Timer)
+* __介绍：__  非常简单的猫咪计时器。[📦](https://github.com/xujiangjiang/Easy-Cat-Timer)
 * :heavy_check_mark:__优点：__
     - 非常可爱
     - 非常简单
@@ -81,7 +86,7 @@
     - 
 
 #### [<img src="https://zh.snipaste.com/favicon.ico" title="Snipaste" width="24px"  alt=""/>Snipaste](https://zh.snipaste.com/index.html)
-* __介绍：__  功能强大的桌面截图软件。[:octocat:](https://github.com/Snipaste/feedback)
+* __介绍：__  功能强大的桌面截图软件。[📦](https://github.com/Snipaste/feedback)
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
@@ -97,7 +102,7 @@
 
 #### [<img src="https://rime.im/favicon.png" title="RIME" width="24px"   alt=""/>RIME](https://rime.im/)
 
-* __介绍：__  输入法。[:octocat:](https://github.com/rime/weasel)
+* __介绍：__  输入法。[📦](https://github.com/rime/weasel)
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
@@ -114,7 +119,7 @@
 
 #### [<img src="http://gimp.baisheng999.com/favicon.ico" title="GIMP" width="24px"   alt=""/>GIMP](http://gimp.baisheng999.com)
 
-* __介绍：__  免费开源图形软件。[:octocat:](https://github.com/GNOME/gimp)
+* __介绍：__  免费开源图形软件。[📦](https://github.com/GNOME/gimp)
 * :heavy_check_mark:__优点：__
     - 资源占用比许多图形处理软件要小得多。
     - 多平台
@@ -127,7 +132,7 @@
 
 #### [<img  src="https://modernflyouts-community.github.io/favicon.ico" title="ModernFlyouts" width="24px"   alt=""/>ModernFlyouts](https://modernflyouts-community.github.io/)
 
-* __介绍：__  替换掉Windows 10原有音量指示器、飞行模式指示器、大小写切换指示器、数字区开关指示器的小工具。[:octocat:](https://github.com/ModernFlyouts-Community/ModernFlyouts)
+* __介绍：__  替换掉Windows 10原有音量指示器、飞行模式指示器、大小写切换指示器、数字区开关指示器的小工具。[📦](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 * :heavy_check_mark:__优点：__
     -  
 * :x:__缺点：__
@@ -154,7 +159,7 @@
 
 #### [<img src="https://github.com/Code52/carnac/blob/master/src/Carnac/carnac.png" title="Carnac" width="24px"   alt=""/>Carnac](http://code52.org/carnac/)
 
-* __介绍：__  按键操作实时显示工具。[:octocat:](https://github.com/Code52/carnac)
+* __介绍：__  按键操作实时显示工具。[📦](https://github.com/Code52/carnac)
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
@@ -204,7 +209,7 @@
 
 #### [<img  src="https://godotengine.org/themes/godotengine/assets/favicon.png" title="Godot" width="24px"   alt=""/>Godot](https://godotengine.org/)
 
-* __介绍：__  开源游戏引擎，是一款制作游戏的软件，可以制作2D和3D游戏。[:octocat:](https://github.com/godotengine/godot)
+* __介绍：__  开源游戏引擎，是一款制作游戏的软件，可以制作2D和3D游戏。[📦](https://github.com/godotengine/godot)
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
@@ -213,7 +218,7 @@
 
 #### [<img src="https://www.renpy.org/static/favicon.ico" title="Ren'Py" width="24px"   alt=""/>Ren'Py](https://www.renpy.org/)
 
-* __介绍：__  可视化的小说引擎。[:octocat:](https://github.com/renpy/renpy)
+* __介绍：__  可视化的小说引擎。[📦](https://github.com/renpy/renpy)
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
@@ -222,7 +227,7 @@
 
 #### [<img src="https://www.inklestudios.com/favicon.ico" title="Inky" width="24px"   alt=""/>Inky](https://www.inklestudios.com/)
 
-* __介绍：__  编写属于自己的互动小说/文字冒险游戏。[:octocat:]("https://github.com/inkle/inky)
+* __介绍：__  编写属于自己的互动小说/文字冒险游戏。[📦]("https://github.com/inkle/inky)
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
@@ -234,7 +239,7 @@
 
 #### [<img src="https://tahoma2d.org/img/favicon.ico" title="Tahoma2D" width="24px"   alt=""/>Tahoma2D](https://tahoma2d.org/)
 
-* __介绍：__  基于的[Opentoonz](http://opentoonz.github.io/)基础上动画软件。[:octocat:](https://github.com/tahoma2d/tahoma2d)
+* __介绍：__  基于的[Opentoonz](http://opentoonz.github.io/)基础上动画软件。[📦](https://github.com/tahoma2d/tahoma2d)
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
@@ -244,7 +249,7 @@
 #### [<img src="http://opentoonz.github.io/img/favicon.ico" title="Opentoonz" width="24px"   alt=""/>Opentoonz](http://opentoonz.github.io/)
 
 
-* __介绍：__  开源动画制作软件。[:octocat:](https://github.com/opentoonz/opentoonz)
+* __介绍：__  开源动画制作软件。[📦](https://github.com/opentoonz/opentoonz)
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
@@ -256,7 +261,7 @@
 
 #### [<img  src="https://www.aseprite.org/assets/images/favicon.png" title="Aseprite" width="24px"   alt=""/>Aseprite](https://www.aseprite.org/)
 
-* __介绍：__  专业的动画制作工具,用于创建像素风格的动画。[:octocat:](https://github.com/aseprite/aseprite)
+* __介绍：__  专业的动画制作工具,用于创建像素风格的动画。[📦](https://github.com/aseprite/aseprite)
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
@@ -265,7 +270,7 @@
 
 #### [<img  src="http://ephtracy.github.io/favicon.png" title="MagicaVoxel" width="24px"   alt=""/>MagicaVoxel](http://ephtracy.github.io/)
 
-* __介绍：__  轻量级的像素建模工具。[:octocat:](https://github.com/lachlanmcdonald/magicavoxel-shaders)
+* __介绍：__  轻量级的像素建模工具。[📦](https://github.com/lachlanmcdonald/magicavoxel-shaders)
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
@@ -293,6 +298,15 @@
 
 ### :computer:计算机
 
+#### 重裝系統
+1. <img src="https://cdn.microsoftstore.com.cn/media/favicon/stores/1/favicon.ico" width="20px"/>Windows10
+    1. 8G以上空间的U盘一个（推荐在8G~32G左右）。
+    2. 格式化U盘，更改文件系统为NTFS。
+    3. 下载[启动工具](https://go.microsoft.com/fwlink/?LinkId=691209)。 （推荐微软官网下载镜像）
+    4. 下一步，下一步，再下一步。
+    5. 解決。
+2. Mac Os
+    1. 没用过
 #### [<img src="https://pkg.go.dev/static/img/go-logo-blue.svg" title="go dev" width="24px"   alt=""/>go dev](https://pkg.go.dev/)
 
 * __介绍：__  golang包查询。
@@ -313,7 +327,7 @@
 
 #### [<img src="https://light-city.club/sc/assets/images/favicon.png" title="C++那些事" width="24px"   alt=""/>C++那些事](https://light-city.club/sc/)
 
-* __介绍：__  比较全面的C++学习从入门到进阶提升的仓库。[:octocat:](https://github.com/Light-City/CPlusPlusThings)
+* __介绍：__  比较全面的C++学习从入门到进阶提升的仓库。[📦](https://github.com/Light-City/CPlusPlusThings)
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
