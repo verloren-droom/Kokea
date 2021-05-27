@@ -298,14 +298,15 @@
 
 ### :computer:计算机
 
-#### 重裝系統
-1. <img src="https://cdn.microsoftstore.com.cn/media/favicon/stores/1/favicon.ico" width="20px"/>Windows10
+#### 重装系统
+* <img src="https://cdn.microsoftstore.com.cn/media/favicon/stores/1/favicon.ico" width="20px"/>Windows10
     1. 8G以上空间的U盘一个（推荐在8G~32G左右）。
-    2. 格式化U盘，更改文件系统为NTFS。
-    3. 下载[启动工具](https://go.microsoft.com/fwlink/?LinkId=691209)。 （推荐微软官网下载镜像）
-    4. 下一步，下一步，再下一步。
-    5. 解決。
-2. Mac Os
+        2. 格式化U盘，更改文件系统为NTFS。
+        3. 下载[启动工具](https://go.microsoft.com/fwlink/?LinkId=691209)（推荐微软官网下载镜像，打不开可能是网络问题，在网络状态好的情况下运行。）
+           - 运行MediaCreationToolXXXX.exe :arrow_right: 同意:arrow_right: :radio_button: 为另一台电脑创建安装介质(U盘、DVD或ISO文件) :arrow_right:下一步:arrow_right: 下一步:arrow_right: :radio_button:U盘:arrow_right: 下一步:arrow_right: （选择你的U盘） :arrow_right: 等待下载:arrow_right: 下载完成:arrow_right: 弹出U盘
+        4. 将U盘插入需要重装系统的电脑，重启电脑，进入系统启动菜单 。
+            <img src="https://i.loli.net/2021/05/27/KT5P3FfIuLtiWOX.png" />
+* Mac Os
     1. 没用过
 #### [<img src="https://pkg.go.dev/static/img/go-logo-blue.svg" title="go dev" width="24px"   alt=""/>go dev](https://pkg.go.dev/)
 
