@@ -116,6 +116,12 @@
     - 
 * :x:__缺点：__
     - 
+#### [<img src="https://user-images.githubusercontent.com/1687847/82130498-8c3eac80-97d4-11ea-9e88-372ab9c50295.png" title="QuickLook" width="24px"   alt=""/>QuickLook](https://pooi.moe/QuickLook/)
+* __介绍：__  免费开源文件快速预览工具。[📦](https://github.com/QL-Win/QuickLook)
+* :heavy_check_mark:__优点：__
+    - 
+* :x:__缺点：__
+    - 
 
 #### [<img src="http://gimp.baisheng999.com/favicon.ico" title="GIMP" width="24px"   alt=""/>GIMP](http://gimp.baisheng999.com)
 
@@ -138,6 +144,13 @@
 * :x:__缺点：__
     - 
 
+#### [<img  src="https://entropy6.com/xmeters/images/site_logo.png" title="xmeters" width="24px"   alt=""/>Xmeters](https://entropy6.com/xmeters/)
+
+* __介绍：__  高颜值 Windows 任务栏系统检测工具（有免费版和付费版）。
+* :heavy_check_mark:__优点：__
+    -  
+* :x:__缺点：__
+    - 
 
 #### [<img src="https://www.mydockfinder.com/wp-content/uploads/2020/12/dock.ico" title="MyDock&MyFinder" width="24px"   alt=""/>MyDock&MyFinder](https://www.mydockfinder.com/)
 
@@ -145,8 +158,16 @@
 * :heavy_check_mark:__优点：__
     - 
 * :x:__缺点：__
-    - 
+    - 
 
+#### [<img src="https://files.community/branding/logo-light.svg" title="Files" width="24px"   alt=""/>Files](https://files.community/)
+
+* __介绍：__  开源免费的Windows文件管理器。[📦](https://github.com/files-community/Files)
+* :heavy_check_mark:__优点：__
+    - 好看
+* :x:__缺点：__
+    - 功能还不完善
+    - 有点卡
 
 #### [<img  src="https://www.rainmeter.net/favicon.ico" title="Rainmeter" width="24px"   alt=""/>Rainmeter](https://www.rainmeter.net/)
 
@@ -165,6 +186,12 @@
 * :x:__缺点：__
     - 
 
+#### [<img src="https://www.coodesker.com/img/logo.9293e1c8.png" title="Coodesker" width="24px"   alt=""/>Coodesker](https://www.coodesker.com/)
+* __介绍：__  免费桌面整理工具
+* :heavy_check_mark:__优点：__
+    - 体积小
+* :x:__缺点：__
+    - 
 
 #### [<img src="https://themepack.me/static/st/favicon/favicon-16x16.png" title=" Windows 10 Themes" width="24px"   alt=""/>Windows 10 Themes](https://themepack.me/)
 
